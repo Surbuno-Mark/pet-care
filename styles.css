@@ -192,6 +192,16 @@ h3 {
   margin-top: 30px;
 }
 
+.phone-link {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 900;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.28);
+}
+
 .button {
   display: inline-flex;
   min-height: 48px;
@@ -676,6 +686,11 @@ textarea {
 
   .hero-actions .button {
     width: 100%;
+  }
+
+  .phone-link {
+    width: 100%;
+    justify-content: center;
   }
 
   .quick-stats {

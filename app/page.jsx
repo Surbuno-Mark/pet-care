@@ -128,6 +128,7 @@ export default function Home() {
             <div className="hero-actions">
               <a className="button primary" href="#booking">立即预约</a>
               <a className="button secondary" href="#store">查看门店环境</a>
+              <a className="phone-link" href="tel:07566966658">预约电话：0756-6966658</a>
             </div>
           </div>
         </section>
@@ -259,6 +260,7 @@ export default function Home() {
             <address>
               珠海市平沙镇时代港<br />
               靠近升平大道与美平二街交汇区域<br />
+              预约电话：0756-6966658<br />
               每日 10:00 - 20:00
             </address>
           </div>
